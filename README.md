@@ -9,7 +9,7 @@
 ###
 
 <p align="left">I love learning new things 👀.<br>
-I am currently trying to learn things about Mobile devices and Websites that use any FrontEnd element, but at the moment I am only focusing on learning Astro.<br><br>- 🌱 I’m currently learning Astro and Jetpack Compose</p>
+I'm currently trying to learn things about Mobile devices and Websites that use any FrontEnd element, but at the moment I'm just focusing on learning websites with Astro and trying to learn something about mobile applications.<br><br>- 🌱 I’m currently learning Astro and Jetpack Compose</p>
 
 ###
 
