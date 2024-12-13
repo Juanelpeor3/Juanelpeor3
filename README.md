@@ -17,6 +17,6 @@ I'm currently trying to learn things about Mobile devices and Websites that use 
 
 ## Statistics
 
-![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=radical)
+![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=radical&exclude_repo=eclipse-workspace-dam)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)
