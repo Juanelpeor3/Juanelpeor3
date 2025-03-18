@@ -13,10 +13,12 @@ I'm currently trying to learn things about Mobile devices and Websites that use 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,java,bash,svelte,git,github,linux,raspberrypi,tailwind,twitter,ubuntu,vscode,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,svelte,nodejs,npm,kotlin,sqlite,java,bash,git,github,md,linux,raspberrypi,ubuntu,vscode,docker&perline=10)](https://skillicons.dev)
 
 ## Statistics
 
 ![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)
+
+![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=pixel&label=Profile+views)
