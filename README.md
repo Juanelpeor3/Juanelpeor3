@@ -17,6 +17,8 @@ I'm currently trying to learn things about Mobile devices and Websites that use 
 
 ## Statistics
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanelpeor3&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)
