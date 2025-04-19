@@ -23,6 +23,6 @@ I'm currently trying to learn things about Mobile devices and Websites that use 
 
 <!--![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)-->
 
-![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=pixel&label=Profile+views)-->
+![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=pixel&label=Profile+views)
