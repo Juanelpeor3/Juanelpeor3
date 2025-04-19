@@ -8,7 +8,9 @@ I love learning new things 👀.
 
 I'm currently trying to learn things about Mobile devices and Websites that use any FrontEnd element, but at the moment I'm just focusing on learning websites with Astro and trying to learn something about mobile applications.
 
-- 🌱 I’m currently learning Astro and Jetpack Compose
+- 🌱 I'm currently learning Astro, Jetpack Compose and Firebase.
+
+- 🚀 I'm currently developing a website and a mobile app for my final degree project (TFG).
 
 
 ## Skills
