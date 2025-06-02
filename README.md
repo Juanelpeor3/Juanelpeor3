@@ -6,11 +6,9 @@ Hey 👋 My name is Juan!
 
 I love learning new things 👀.
 
-I'm currently trying to learn things about Mobile devices and Websites that use any FrontEnd element, but at the moment I'm just focusing on learning websites with Astro and trying to learn something about mobile applications.
+I'm a passionate developer focused on building modern, functional, and scalable digital solutions. I specialize in developing web and mobile applications, working on both the frontend and backend.
 
 - 🌱 I'm currently learning Astro, Jetpack Compose and Firebase.
-
-- 🚀 I'm currently developing a website and a mobile app for my final degree project (TFG).
 
 
 ## Skills
