@@ -8,8 +8,6 @@ I love learning new things 👀.
 
 I'm a passionate developer focused on building modern, functional, and scalable digital solutions. I specialize in developing web and mobile applications, working on both the frontend and backend.
 
-- 🌱 I'm currently learning Astro, Jetpack Compose and Firebase.
-
 
 ## Skills
 
