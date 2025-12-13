@@ -11,7 +11,7 @@ I'm a passionate developer focused on building modern, functional, and scalable 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,svelte,nodejs,npm,kotlin,sqlite,firebase,grafana,java,bash,git,github,md,linux,raspberrypi,ubuntu,vscode,docker,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,docker,vercel&perline=10)](https://skillicons.dev)
 
 
 ## Github Statistics
@@ -22,4 +22,4 @@ I'm a passionate developer focused on building modern, functional, and scalable 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)-->
 
-![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
+![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=pixel&label=Profile+views)
