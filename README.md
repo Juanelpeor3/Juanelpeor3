@@ -1,4 +1,4 @@
-## About me
+# 💡 About me
 
 Hey 👋 My name is Juan!
 
@@ -9,12 +9,12 @@ I love learning new things 👀.
 I'm a passionate developer focused on building modern, functional, and scalable digital solutions. I specialize in developing web and mobile applications, working on both the frontend and backend.
 
 
-## Skills
+## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,docker,vercel&perline=10)](https://skillicons.dev)
 
 
-## Github Statistics
+## 📊 Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanelpeor3&theme=dark&date_format=j%20M%5B%20Y%5D)
 
