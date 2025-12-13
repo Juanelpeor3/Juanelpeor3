@@ -11,7 +11,7 @@ I'm a passionate developer focused on building modern, functional, and scalable 
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,docker,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,idea,docker,vercel,netlify&perline=10)](https://skillicons.dev)
 
 
 ## 📊 Statistics
