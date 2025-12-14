@@ -8,7 +8,15 @@ I love learning new things 👀.
 
 I'm a passionate developer focused on building modern, functional, and scalable digital solutions. I specialize in developing web and mobile applications, working on both the frontend and backend.
 
+```js
+while (learning) {
+  improve();
 
+  if (!coffee) {
+    throw new Error("Build failed: coffee not found ☕");
+  }
+}
+```
 ## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,idea,docker,vercel,netlify&perline=10)](https://skillicons.dev)
