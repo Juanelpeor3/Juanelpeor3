@@ -2,7 +2,7 @@
 
 Hey 👋 My name is Juan!
 
-![background](media/background.jpg)
+![background](media/killua-and-gon-eating.gif)
 
 I love learning new things 👀.
 
