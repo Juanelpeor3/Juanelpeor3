@@ -19,7 +19,7 @@ while (learning) {
 ```
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,astro,tailwind,svelte,nodejs,js,ts,npm,kotlin,sqlite,firebase,java,bash,git,github,md,linux,vscode,idea,docker,vercel,netlify&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,react,angular,astro,svelte,js,ts,nodejs,npm,java,cs,dotnet,spring,php,kotlin,docker,linux,bash,git,github,vscode,idea,vercel,netlify,postgresql,sqlite,mongodb,firebase,md&perline=10)](https://skillicons.dev)
 
 
 ## 📊 Statistics
@@ -30,4 +30,4 @@ while (learning) {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)-->
 
-![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=pixel&label=Profile+views)
+![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
