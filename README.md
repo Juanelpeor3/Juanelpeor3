@@ -1,12 +1,16 @@
+![background](media/killua-and-gon-eating.gif)
+
 # 💡 About me
 
 Hey 👋 My name is Juan!
 
-![background](media/killua-and-gon-eating.gif)
-
 I love learning new things 👀.
 
-I'm a passionate developer focused on building modern, functional, and scalable digital solutions. I specialize in developing web and mobile applications, working on both the frontend and backend.
+Before writing a single line of code, I've already spent a good while thinking through the problem.
+
+What matters to me is understanding what's being built and why. I choose the stack afterwards, once I know what it needs to handle and what it needs to show the client.
+
+I get along well with technical complexity. Even better at turning it into something that makes sense to the people using it.
 
 ```js
 while (learning) {
@@ -26,8 +30,6 @@ while (learning) {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanelpeor3&theme=dark&date_format=j%20M%5B%20Y%5D)
 
-<!--![Juanelpeor3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=donut&theme=dracula)-->
+<!-- ![Juanelpeor3's GitHub stats](https://github-stats-extended.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula) -->
 
 ![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
