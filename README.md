@@ -1,8 +1,14 @@
-![background](media/killua-and-gon-eating.gif)
+<p align="center"> <img src="media/killua-and-gon-eating.gif" alt="background" />
 
-# 💡 About me
+<h1 align="center">Hey, I'm Juan 👋</h1>
+<p align="center">Full Stack Developer · Docker, Astro, Angular, Spring Boot, .NET, C#</p>
 
-Hey 👋 My name is Juan!
+<p align="center">
+  <a href="https://juan.mingonzalez.com"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/juanmingonzalez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+</p>
+
+## 💡 About me
 
 I love learning new things 👀.
 
@@ -21,15 +27,27 @@ while (learning) {
   }
 }
 ```
+
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,react,angular,astro,svelte,js,ts,nodejs,npm,java,cs,dotnet,spring,php,kotlin,docker,linux,bash,git,github,vscode,idea,vercel,netlify,postgresql,sqlite,mongodb,firebase,md&perline=10)](https://skillicons.dev)
+| | |
+|---|---|
+| **Frontend** | [![Frontend](https://skillicons.dev/icons?i=html,css,scss,tailwind,react,angular,astro&perline=10)](https://skillicons.dev) |
+| **Backend** | [![Backend](https://skillicons.dev/icons?i=dotnet,cs,spring,php,java&perline=10)](https://skillicons.dev) |
+| **Mobile** | [![Mobile](https://skillicons.dev/icons?i=kotlin,java&perline=10)](https://skillicons.dev) |
+| **DevOps & Tools** | [![DevOps](https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode,idea,vercel,netlify&perline=10)](https://skillicons.dev) |
+| **Databases** | [![Databases](https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,firebase&perline=10)](https://skillicons.dev) |
 
 
 ## 📊 Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanelpeor3&theme=dark&date_format=j%20M%5B%20Y%5D)
 
-<!-- ![Juanelpeor3's GitHub stats](https://github-stats-extended.vercel.app/api?username=Juanelpeor3&show_icons=true&theme=dracula) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=compact&theme=dark) -->
 
-![Profile Count](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
+
+## 📫 Find me
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge)](https://juan.mingonzalez.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/juanmingonzalez/)
