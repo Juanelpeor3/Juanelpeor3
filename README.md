@@ -43,8 +43,8 @@ while (learning) {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanelpeor3&theme=dark&date_format=j%20M%5B%20Y%5D)
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=compact&theme=dark) -->
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanelpeor3&layout=compact&theme=dark)
+  
 ![Profile views](https://komarev.com/ghpvc/?username=Juanelpeor3&abbreviated=true&style=flat&label=Profile+views)
 
 ## 📫 Find me
