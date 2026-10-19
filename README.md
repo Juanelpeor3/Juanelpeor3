@@ -1,5 +1,7 @@
-<p align="center"> <img src="media/killua-and-gon-eating.gif" alt="background" />
-
+<!-- <p align="center"> <img src="media/killua-and-gon-eating.gif" alt="background" /> -->
+<div align="center">
+  <img src="media/icosahedron.webp" alt="icosahedron" width="240">
+</div>
 <h1 align="center">Hey, I'm Juan 👋</h1>
 <p align="center">Full Stack Developer · Docker, Astro, Angular, Spring Boot, .NET, C#</p>
 
